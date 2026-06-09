@@ -1,4 +1,4 @@
-# 
+# 即时 grid trading bot for futures 插件 Mac OS版 | 智能 grid trading bot for futures 插件 PC Windows版。集成 收益耕种 和 低频监控，跨平台性能最大化。
 
 
 
